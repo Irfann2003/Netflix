@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21a08749.css",
+    "main.js": "/static/js/main.360bd7ab.js",
+    "static/media/money heist1.jpg": "/static/media/money heist1.3254bb9d77635d117675.jpg",
+    "static/media/background1.png": "/static/media/background1.fd4f04905b430860fb46.png",
+    "index.html": "/index.html",
+    "main.21a08749.css.map": "/static/css/main.21a08749.css.map",
+    "main.360bd7ab.js.map": "/static/js/main.360bd7ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a08749.css",
+    "static/js/main.360bd7ab.js"
+  ]
+}
